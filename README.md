@@ -4,7 +4,7 @@ I'm Tommy, a creative web developer from Belfast living in London.
 
 ### 🔭 I’m currently working on:
 
-I work at [CastRooms](https://castrooms.com/), a new social streaming site for music performers and fans. I'm the ~only~ best Engineer in the company, so it's a lot of fun and I'm learning loads. In my spare time, I'm working on a side project that's way too early to share.
+I work at [Sona](https://www.getsona.com/), a product for frontline deskless workforces.
 
 I've built some useful things for myself like [Lineup.fun](https://lineup.fun/), and some silly things, like [Is It Shorts Weather Today](https://www.isitshortsweathertoday.com/).
 
@@ -12,8 +12,9 @@ I like writing HTML, CSS, & JavaScript. I enjoy working with Svelte a lot, but I
 
 ### 🌱 I’m currently learning:
 
-- Svelte and SvelteKit
 - LiveView
+- Astro
+- Svelte and SvelteKit
 - Three.js and WebGL
 
 ### 💬 Ask me about:
